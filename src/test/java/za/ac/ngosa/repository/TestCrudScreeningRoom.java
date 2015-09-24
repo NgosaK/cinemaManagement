@@ -1,15 +1,5 @@
 package za.ac.ngosa.repository;
 
-import ac.za.cput.App;
-import ac.za.cput.domain.ScreeningRoom;
-import org.junit.Assert;
-import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.SpringApplicationConfiguration;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
-import org.springframework.test.context.web.WebAppConfiguration;
-
 /**
  * Created by User on 2015/08/10.
  */
